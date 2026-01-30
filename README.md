@@ -22,4 +22,4 @@ Aplicar conceitos básicos de programação na construção da lógica de um jog
 Este repositório contém **material teórico** com fins didáticos, não sendo um programa executável.
 
 ## Autor
-Aluno do curso de **Análise e Desenvolvimento de Sistemas**
+deivideson,aluno do curso de **Análise e Desenvolvimento de Sistemas**
